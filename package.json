@@ -1,6 +1,6 @@
 {
   "name": "can-use-localstorage",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "test localstorage in browser",
   "main": "index.js",
   "scripts": {

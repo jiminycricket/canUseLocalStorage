@@ -15,7 +15,8 @@ yarn add can-use-localstorage
 
 ## Usage
 ```
-const { canUselocalStorage } = require('can-use-localstorage');
+import canUselocalStorage from 'can-use-localstorage';
+// const canUselocalStorage = require('can-use-localstorage');
 
 const result = canUselocalStorage();
 
