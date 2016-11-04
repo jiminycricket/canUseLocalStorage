@@ -16,10 +16,13 @@ yarn add can-use-localstorage
 ## Usage
 ```
 const { canUselocalStorage } = require('can-use-localstorage');
-canUselocalStorage();
+
+const result = canUselocalStorage();
+
+console.log(result);
 // true || false
 
-console(window.canUselocalStorage);
+console.log(window.canUselocalStorage);
 // true || false
 ```
 
