@@ -1,0 +1,18 @@
+{
+  "name": "can-use-localstorage",
+  "version": "0.0.1",
+  "description": "test localstorage in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage",
+    "can",
+    "i",
+    "use",
+    "browser"
+  ],
+  "author": "jiminycricket (https://github.com/jiminycricket)",
+  "license": "MIT"
+}
