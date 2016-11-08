@@ -1,6 +1,6 @@
 {
   "name": "can-use-localstorage",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "test localstorage in browser",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,11 @@
     "use",
     "browser"
   ],
+  "bugs": {
+    "url": "https://github.com/jiminycricket/canUseLocalStorage/issues",
+    "email": "jiminy.upon.star@gmail.com"
+  },
+  "repository": "https://github.com/jiminycricket/canUseLocalStorage",
   "author": "jiminycricket (https://github.com/jiminycricket)",
   "license": "MIT"
 }
